@@ -1,0 +1,1 @@
+# teradata-f7y
